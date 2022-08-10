@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m Chris Lewis. I'm an neuroscientist and engineer developing new tools to study learning and perception. I use multi-channel electrophysiology in combination with diverse optical approaches to study the brain. 
+
+
 <!--
 **cloois/cloois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m Chris Lewis. I'm an neuroscientist and engineer developing new tools to study learning and perception. I use multi-channel electrophysiology in combination with diverse optical approaches to study the brain. 
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
