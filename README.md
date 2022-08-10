@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m Chris Lewis. I'm an neuroscientist and engineer developing new tools to study learning and perception. I use multi-channel electrophysiology in combination with diverse optical approaches to study the brain. 
+I’m Chris Lewis. I'm an neuroscientist and engineer🏻developing new tools to study learning and perception. I use multi-channel electrophysiology in combination with diverse optical approaches to study the brain. 🧠🔬👨🏻‍💻
 
 
 <!--
